@@ -1,5 +1,5 @@
 - Hi, im Lui :)
-- I'm 16 y/o.
+
 - Learning to program in Python, JavaScript and C++, also to development of Bots in Discord.
 
 
